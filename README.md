@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h3> My name is Jimmy Miller, I'm 15 turning 16 aug 13, 2024. I'm a highschooler in the 10 </h3>
 
 <!--
 **Jimmy-Miller1/Jimmy-Miller1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
