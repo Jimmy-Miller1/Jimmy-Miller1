@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmy-miller1" alt="jimmy-miller1" /></a> </p>
 
-- 🔭 I’m currently working on: **building a website from scratch (demo day)**
+- 🔭 I’m currently done working on: **building a website from scratch (demo day) <a herf ="https://replit.com/@jimmymiller308/Demo-Project?v=1">**
 
 - 🌱 I’m currently learning: **about coding in html and career stuff**
 
